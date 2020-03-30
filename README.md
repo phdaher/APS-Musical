@@ -14,7 +14,7 @@ Botao: PIO A 11
 
 Contém duas músicas:
 Piratas do Caribe (theme)
-Happy Bithday
+Happy Birthday
 
 Ao apertar o botao SW0 da placa:
 Play/Pausa a música que está tocando
@@ -22,7 +22,7 @@ Play/Pausa a música que está tocando
 Ao segurar o botao SW0 da placa por mais de 2 segundos:
 Passa para a próxima música
 
-LED pisca de acordo com o ritimo da músic que está sendo reproduzida
+LED pisca de acordo com o ritimo da música que está sendo reproduzida
 
 # Link para o vídeo no YouTube
 
